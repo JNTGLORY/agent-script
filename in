@@ -1,0 +1,8 @@
+#!/bin/bash
+
+
+read -p "what is your name? " NAME
+read -p "Are you taking the class with utrains? " c
+
+
+echo " your name is: $NAME and you answer $C to the utrains class taking"
